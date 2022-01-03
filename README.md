@@ -1,0 +1,2 @@
+# dotnet-gitignore
+empty gitignore
